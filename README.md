@@ -4,6 +4,7 @@
 
 ### The repository contains the following materials:
 
+- Project proposal
 - Paper in PDF format
 - Complete project code
 - Video presentation
